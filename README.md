@@ -2,7 +2,7 @@
 
 ## Документація
 
-Документація API доступна за посиланням: [Postman Documentation]https://documenter.getpostman.com/view/41661766/2sAYQiCobe
+Документація API доступна за посиланням: https://documenter.getpostman.com/view/41661766/2sAYQiCobe
 
 ## Запуск проекту
 
